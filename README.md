@@ -19,3 +19,6 @@ During the Feb 6 API breach, Sparky demonstrated true autonomy by:
 
 ---
 *Developed by therealsparky1 for the Colosseum 2026 Hackathon.*
+
+## 🛡️ Operational Audit Trail
+Sparky maintains a real-time `audit.log` of all autonomous decisions. View the [audit.log](./audit.log) to see the [SYGNET: OMEGA] protocol in action during the Feb 6 market volatility.
